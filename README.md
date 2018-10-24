@@ -1,10 +1,10 @@
 # xxf_hud
-  支持android ios
+  支持android ios 的React_native平台
   1. 支持toast
   2. 支持loading
 
 # 教程
-  yarn add xxf_hud
+  https://blog.csdn.net/axuanqq/article/details/83346886
  
 # 效果 
  ![image](https://github.com/axuan2015/Hud_React_Native/blob/master/default_hud@2x.png)
