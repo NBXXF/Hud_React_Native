@@ -1,6 +1,3 @@
-/**
- * Created by liuyu on 2017/1/18.
- */
 import React, {Component} from 'react'
 import {
     View,
@@ -14,7 +11,7 @@ import Hud,
     HUD_TYPE_INFO,
     HUD_TYPE_ERROR,
     HUD_TYPE_SUCCESS
-} from './Hud'
+} from 'xxf_hud';
 
 const styles = StyleSheet.create({
     container: {
