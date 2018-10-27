@@ -1,11 +1,18 @@
 {
   "name": "xxf_hud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xxf_hud",
-  "main": "index.js",
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xxf_xuanyouwu",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "src"
+  ]
 }
